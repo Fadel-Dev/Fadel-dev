@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fdael-art
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning react
+- 👀 I’m interested in java
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on a projects
 - 📫 How to reach me ...
 
