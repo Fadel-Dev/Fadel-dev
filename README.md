@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @fdael-art
-- 👀 I’m interested in java
+- 👋 Hi, I’m Fadel diop
+- 👀 I’m interested in java,javascript,python(),php.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on a projects
 - 📫 How to reach me ...
